@@ -1,7 +1,7 @@
 # haberler
 📰 Haberler Botu V14 - Yenilikler ve Geliştirmeler! 🚀
 
-- ⭐ 55 Star'da Altyapı Paylaşılacak
+⭐ 55 Star'da Altyapı Paylaşılacak
 ## 📷 Bot'un çalışır hali , bot belirlenen kanala güncel haberleri paylaşır.
 ![image](https://i.hizliresim.com/ck9q71e.png)
 
