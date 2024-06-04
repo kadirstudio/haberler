@@ -3,9 +3,9 @@
 
 ⭐ 55 Star'da Altyapı Paylaşılacak
 ## 📷 Bot'un çalışır hali , bot belirlenen kanala güncel haberleri paylaşır.
+`config.json`'dan `WEBHOOK_URL` den mesajın atılıcagı kanalı ve  `EMBED_FOTO_URL` ile de embeddeki fotoyu degiştirebiliyorsunuz. 
+Bu projenin izinsiz kopyalanıp paylaşılması/satılması kesinlikle yasaktır.
+
 ![image](https://i.hizliresim.com/ck9q71e.png)
 
-`config.json`'dan `WEBHOOK_URL` den mesajın atılıcagı kanalı ve  `EMBED_FOTO_URL` ile de embeddeki fotoyu degiştirebiliyorsunuz. 
 
-Yayınlanana kadar güncelleme gelebilir,
-Bu projenin izinsiz kopyalanıp paylaşılması/satılması kesinlikle yasaktır.
