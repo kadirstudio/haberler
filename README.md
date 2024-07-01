@@ -1,5 +1,5 @@
 # haberler
-[📰](https://carlosbot.vercel.app/img/logo2.png) Haberler Botu V14 - Yenilikler ve Geliştirmeler! 🚀
+📰 Haberler Botu V14 - Yenilikler ve Geliştirmeler! 🚀
 
 ⭐ 55 Star'da Altyapı Paylaşılacak
 ## 📷 Bot'un çalışır hali , bot belirlenen kanala güncel haberleri paylaşır.
